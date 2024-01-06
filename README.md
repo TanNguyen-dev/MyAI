@@ -53,7 +53,7 @@ To run this code and experience the functionalities of the AI Personal Assistant
    - Navigate to the cloned repository in your Python environment.
    - Execute the program using:
      ```
-     python AI_Personal_Assistant.py
+     python MyAI.py
      ```
 
 4. **Interact with the Assistant:**
