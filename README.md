@@ -44,7 +44,7 @@ To run this code and experience the functionalities of the AI Personal Assistant
      ```
 
 2. **Install Dependencies:**
-   - Install the required libraries using:
+   - Install the required libraries in your Command Prompt (cmd) using:
      ```
      pip install SpeechRecognition pyttsx3 opencv-python wikipedia requests
      ```
